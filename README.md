@@ -1,16 +1,16 @@
 # wangygen
 Just For Fun
 
-Installation on Termux 
-
-$pkg install update & upgrade
-$pkg install bash
-$git clone https://github.com/riandafuadshafly/wangygen/
-$cd wangygen
-$sh wangy.sh
-
-Installation on Windows 
-
-Download Git Bash in Google
-Download this is repository
-and run in Git Bash.exe
+Installation on Termux <br>
+<br>
+$pkg install update & upgrade <br>
+$pkg install bash <br>
+$git clone https://github.com/riandafuadshafly/wangygen/ <br>
+$cd wangygen <br>
+$sh wangy.sh <br>
+<br>
+Installation on Windows <br>
+<br>
+Download Git Bash in Google <br>
+Download this is repository <br>
+and run in Git Bash.exe <br>
