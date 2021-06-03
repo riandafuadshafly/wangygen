@@ -22,16 +22,21 @@ echo -e " [+] Info     : WibuWangy Generator"
 echo -e " [+] Website  : www.riandafuadshafly.my.id "
 echo -e " [+] Contact  : bangrianda456@gmail.com "
 echo ""
-echo -e $c "
- [-] Masukkan nama husbu/waifu : "
-read waifu
+read -p " [-] Masukkan nama husbu/waifu = " waifu;
+sleep 1
 echo -e $y "[+] Daftar List : "
+sleep 1
 echo -e $y "    [1] Genjot "
+sleep 1
 echo -e $y "    [2] Jilat "
+sleep 1
 echo -e $y "    [3] Wangy Wangy"
+sleep 1
 echo -e $y "    [4] Watashi"
+sleep 1
 read -p  " [-] Pilih salah satu angka diatas = " wibu;
 
+sleep 3
 case $wibu in
 1)
 echo -e $g "Buruan, panggil gue SIMP, ato BAPERAN. ini MURNI PERASAAN GUE. Gue pengen genjot bareng $waifu. Ini seriusan, suaranya yang imut, mukanya yang cantik, apalagi badannya yang aduhai ningkatin gairah gue buat genjot $waifu. Setiap lapisan kulitnya pengen gue jilat. Saat gue mau crot, gue bakal moncrot sepenuh hati, bisa di perut, muka, badan, teteknya, sampai lubang burit pun bakal gue crot sampai puncak klimaks. Gue bakal meluk dia abis gue moncrot, lalu nanya gimana kabarnya, ngrasain enggas bareng saat telanjang. Dia bakal bilang kalau genjotan gue mantep dan nyatain perasaannya ke gue, bilang kalo dia cinta ama gue. Gue bakal bilang balik seberapa gue cinta ama dia, dan dia bakal kecup gue di pipi. Terus kita ganti pakaian dan ngabisin waktu nonton film, sambil pelukan ama makan hidangan favorit. Gue mau $waifu jadi pacar, pasangan, istri, dan idup gue. Gue cinta dia dan ingin dia jadi bagian tubuh gue. Lo kira ini copypasta? Kagak cok. Gue ngetik tiap kata nyatain prasaan gue. Setiap kali elo tanya dia siapa, denger ini baik-baik : DIA ISTRI GUE. Gue sayang $waifu, dan INI MURNI PIKIRAN DAN PERASAAN GUE.  "
