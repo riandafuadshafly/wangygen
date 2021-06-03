@@ -1,4 +1,4 @@
-﻿#!/bin/bash
+#!/bin/bash
 #version 1.0
 #wibuwangy
 #just for fun
@@ -17,20 +17,20 @@ y='\E[33m'
 sleep 3
 clear
 echo ""
-echo -e " Author   : Rianda Fuad Shafly "
-echo -e " Info     : WibuWangy Generator"
-echo -e " Website  : www.riandafuadshafly.my.id "
-echo -e " Contact  : bangrianda456@gmail.com "
+echo -e " [+] Author   : Rianda Fuad Shafly "
+echo -e " [+] Info     : WibuWangy Generator"
+echo -e " [+] Website  : www.riandafuadshafly.my.id "
+echo -e " [+] Contact  : bangrianda456@gmail.com "
 echo ""
 echo -e $c "
-Masukkan nama husbu/waifu : "
+ [-] Masukkan nama husbu/waifu : "
 read waifu
-echo -e $y " Daftar List : "
-echo -e $y "   1. Genjot "
-echo -e $y "   2. Jilat "
-echo -e $y "   3. Wangy Wangy"
-echo -e $y "   4. Watashi"
-read -p  " Pilih salah satu angka diatas = " wibu;
+echo -e $y "[+] Daftar List : "
+echo -e $y "    [1] Genjot "
+echo -e $y "    [2] Jilat "
+echo -e $y "    [3] Wangy Wangy"
+echo -e $y "    [4] Watashi"
+read -p  " [-] Pilih salah satu angka diatas = " wibu;
 
 case $wibu in
 1)
